@@ -7,7 +7,7 @@ import vuetify from './plugins/vuetify';
 
 Vue.use(VueGoogleMaps, {
   load: {
-    key: 'AIzaSyA_UeV4hwzgEG2h2iT0rwoYvgHv6snP9jM',
+    key: 'key',
     libraries: 'places', 
   },
  
